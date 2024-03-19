@@ -2,7 +2,7 @@
 
 ## Цель исследования: 
 
-Prepare a study of the Moscow market, find interesting features and present the results obtained, which in the future will help in choosing a suitable location for investors.
+Podgotovit' issledovaniye rynka Moskvy, nayti interesnyye osobennosti i predstavit' poluchennyye rezul'taty, kotoryye v budushchem pomogut investoram vybrat' podkhodyashchuyu lokatsiyu.
 
 ### Описание данных
 
